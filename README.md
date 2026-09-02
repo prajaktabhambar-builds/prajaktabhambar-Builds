@@ -3,16 +3,21 @@
 ### 💻 Computer Engineering Student | Software Developer | AI/ML Enthusiast
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student;Software+Developer;DSA+%7C+AI%2FML+%7C+Full+Stack;Hackathon+Enthusiast;Building+Projects+That+Solve+Real+Problems" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Computer+Engineering+Student;Software+Developer;DSA+%7C+AI%2FML+%7C+Full+Stack;Hackathon+Enthusiast;Building+Projects+That+Solve+Real+Problems" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=prajakta-bhambar-builds&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/prajakta-bhambar-builds?label=Followers&style=flat" />
 </p>
 
 ---
 
-## 🚀 About Me
+## 👩‍💻 About Me
 
-🎓 I'm a **Computer Engineering student** passionate about building practical and innovative software solutions.
+🎓 I'm a **Computer Engineering student** passionate about software development and emerging technologies.
 
-💡 I enjoy solving problems using **Data Structures & Algorithms, AI/ML, Web Development, and Android Development**.
+💡 I enjoy solving real-world problems using **Data Structures & Algorithms, AI/ML, Web Development, and Android Development**.
 
 🏆 I actively participate in **hackathons, technical events, and project-based learning**.
 
@@ -24,40 +29,40 @@
 
 ## 🛠️ Tech Stack
 
-### 👩‍💻 Programming Languages
+### 💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,php" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,php" />
 </p>
 
 ### 🌐 Web Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,php" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,php" />
 </p>
 
-### 📱 App Development
+### 📱 Android Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=androidstudio,java" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,java" />
 </p>
 
-### 🗄️ Database
+### 🗄️ Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb" />
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb" />
 </p>
 
 ### 🤖 AI / ML
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow" />
 </p>
 
-### 🔧 Tools & Platforms
+### 🔧 Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio" />
 </p>
 
 ---
@@ -86,7 +91,7 @@
 * 📊 Traffic analysis
 * 🧠 Q-Learning based intelligent decision making
 
-**Tech:** Python • YOLO • BoT-SORT • Q-Learning • AI/ML
+**Tech:** Python • YOLO • BoT-SORT • Q-Learning
 
 ---
 
@@ -96,9 +101,10 @@
 
 * 🤖 AI agents for intelligent task handling
 * 🧠 Personalized user experience
-* ⚡ Automation and intelligent decision making
+* ⚡ Intelligent automation
+* 🔄 AI-driven decision making
 
-**Tech:** Python • AI • Agentic AI • APIs
+**Tech:** Python • Agentic AI • APIs • AI/ML
 
 ---
 
@@ -120,43 +126,50 @@ Web-based digital notice management system.
 
 ### 👨‍💼 Employee Management System
 
-Desktop application for managing employee records.
+Application for managing employee records and information.
 
 **Tech:** Java • MySQL
 
 ---
 
+### 📚 Library Management System
+
+Python-based application for managing books and library records.
+
+**Tech:** Python • SQLite
+
+---
+
 ## 🏆 Achievements
 
-🥈 **First Runner-Up – Hackspectra 2.0**
+🥈 **First Runner-Up — Hackspectra 2.0**
 
-💰 Won **₹30,000 prize**
+💰 **₹30,000 Prize Winner**
 
-🏆 **Finalist – Hack Better Than Me Hackathon**
+🏆 **Finalist — Hack Better Than Me Hackathon**
 
-👩‍💻 **Women Who Master Hackathon – Participant**
+👩‍💻 **Women Who Master Hackathon — Participant**
 
 🎖️ **CampusCrew 100K Milestone Honor Certificate**
 
 ---
 
-## 📚 Currently Learning
+## 📜 Certifications
 
-```text
-DSA                    ███████████████░░░ 80%
-Java                   ███████████████░░░ 80%
-Python                 ██████████████░░░░ 75%
-AI / ML                ████████████░░░░░░ 65%
-Full Stack Development ███████████░░░░░░░ 60%
-Android Development    ███████████░░░░░░░ 60%
-```
+* 🎓 DBMS Certification — EduSkills
+* 🍃 MongoDB CRUD Certification
+* 🤖 AI/ML Certification — Edunet
+* 💻 IBM Skills Certification
+* 🏆 CampusCrew 100K Milestone Honor Certificate
+* 👩‍💻 Women Who Master Hackathon Participation Certificate
 
 ---
 
-## 💻 Coding & Development
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prajakta-bhambar-builds&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=prajakta-bhambar-builds&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajakta-bhambar-builds&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
@@ -165,11 +178,29 @@ Android Development    ███████████░░░░░░░ 60
 
 ---
 
-## 📊 Most Used Languages
+## 💡 Coding Journey
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajakta-bhambar-builds&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+```text
+DSA                    ████████████████░░  80%
+C / C++                ███████████████░░░  75%
+Java                   ███████████████░░░  80%
+Python                 ██████████████░░░░  70%
+Web Development        █████████████░░░░░  65%
+Android Development    ████████████░░░░░░  60%
+AI / ML                ████████████░░░░░░  60%
+```
+
+---
+
+## 🌱 Currently Learning
+
+* 🧩 Advanced Data Structures & Algorithms
+* 🌐 Full Stack Development
+* 🤖 Artificial Intelligence & Machine Learning
+* 🧠 Agentic AI
+* 📱 Advanced Android Development
+* ☁️ Cloud & Backend Technologies
+* 🔧 Software Engineering Practices
 
 ---
 
@@ -185,7 +216,7 @@ Android Development    ███████████░░░░░░░ 60
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Connect With Me
 
 <p align="center">
 
@@ -201,10 +232,18 @@ Android Development    ███████████░░░░░░░ 60
 
 ---
 
+## 💭 Developer Quote
+
+<p align="center">
+  <i>"Code. Build. Learn. Repeat."</i>
+</p>
+
+---
+
 <p align="center">
 
-### 💡 "Code. Build. Learn. Repeat."
+### ⭐ Thanks for visiting my profile!
 
-⭐ **Thanks for visiting my profile!**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 
 </p>
