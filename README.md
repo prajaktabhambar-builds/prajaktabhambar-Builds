@@ -1,35 +1,39 @@
 # 👋 Hi, I'm Prajakta Bhambar
 
-### 💻 Computer Engineering Student | Software Developer | AI/ML Enthusiast
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Computer+Engineering+Student;Software+Developer;DSA+%7C+AI%2FML+%7C+Full+Stack;Hackathon+Enthusiast;Building+Projects+That+Solve+Real+Problems" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&center=true&vCenter=true&width=750&lines=Computer+Engineering+Student;Software+Developer;AI+%7C+ML+%7C+DSA+Enthusiast;Hackathon+Finalist;Building+Real+World+Solutions" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=prajakta-bhambar-builds&label=Profile%20Views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/followers/prajakta-bhambar-builds?label=Followers&style=flat" />
+  <a href="https://github.com/prajakta-bhambar-builds">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-🎓 I'm a **Computer Engineering student** passionate about software development and emerging technologies.
+🎓 **Computer Engineering Student**
 
-💡 I enjoy solving real-world problems using **Data Structures & Algorithms, AI/ML, Web Development, and Android Development**.
+💻 Passionate about **Software Development, DSA, AI/ML and Full Stack Development**
 
-🏆 I actively participate in **hackathons, technical events, and project-based learning**.
+🚀 Interested in building **innovative solutions for real-world problems**
 
-🌱 Currently improving my skills in **DSA, Full Stack Development, AI/ML, and Software Engineering**.
+🏆 Active **Hackathon Participant & Finalist**
 
-🎯 My goal is to become a strong **Software Developer** and build technology that creates real-world impact.
+🌱 Currently learning **Advanced DSA, Full Stack Development, AI/ML & Agentic AI**
+
+🎯 Aspiring **Software Developer**
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming Languages
+### 💻 Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,php" />
@@ -47,7 +51,7 @@
   <img src="https://skillicons.dev/icons?i=androidstudio,java" />
 </p>
 
-### 🗄️ Databases
+### 🗄️ Database
 
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb" />
@@ -62,129 +66,184 @@
 ### 🔧 Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
 
 ### 🩸 BloodLink AI
 
-**AI-powered blood donor discovery and emergency blood management system.**
+AI-powered blood donor discovery and emergency blood management system.
 
-* 🔎 Helps find compatible blood donors quickly
-* 📍 Location-based donor discovery
-* 🤖 AI-assisted matching
-* 🚨 Designed for emergency situations
+**Tech Stack**
 
-**Tech:** Python • AI/ML • Web Development • Database
+`Python` `AI/ML` `Web` `Database`
 
----
+**Features**
+
+* 🔎 Compatible donor discovery
+* 📍 Location-based matching
+* 🚨 Emergency assistance
+* 🤖 Intelligent matching
+
+</td>
+
+<td width="50%">
 
 ### 🚦 Marg Vedha 3.0
 
-**AI-Driven Smart Transportation System**
+AI-driven smart transportation system.
 
-* 🚗 Vehicle detection and tracking
-* 🤖 YOLO-based object detection
+**Tech Stack**
+
+`Python` `YOLO` `BoT-SORT` `Q-Learning`
+
+**Features**
+
+* 🚗 Vehicle detection
 * 📊 Traffic analysis
-* 🧠 Q-Learning based intelligent decision making
+* 🧠 Intelligent decisions
+* 🎥 Real-time tracking
 
-**Tech:** Python • YOLO • BoT-SORT • Q-Learning
+</td>
+</tr>
 
----
+<tr>
+<td width="50%">
 
 ### 🧠 PersonaOS
 
-**Agentic AI-based personalized system**
+Agentic AI-based personalized system.
 
-* 🤖 AI agents for intelligent task handling
-* 🧠 Personalized user experience
-* ⚡ Intelligent automation
-* 🔄 AI-driven decision making
+**Tech Stack**
 
-**Tech:** Python • Agentic AI • APIs • AI/ML
+`Python` `AI` `Agentic AI` `APIs`
 
----
+**Features**
 
-### 📚 Student Grade Management App
+* 🤖 AI agents
+* 🧠 Personalization
+* ⚡ Automation
+* 🔄 Intelligent decisions
+
+</td>
+
+<td width="50%">
+
+### 📱 Student Grade Management
 
 Android application for managing student academic records.
 
-**Tech:** Java • Android Studio • SQLite
+**Tech Stack**
 
----
+`Java` `Android Studio` `SQLite`
+
+**Features**
+
+* 👨‍🎓 Student records
+* 📊 Grade management
+* 💾 Local database
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
 
 ### 📢 Digital Notice Board
 
-Web-based digital notice management system.
+Digital platform for managing college notices.
 
-**Tech:** PHP • MySQL • HTML • CSS
+**Tech Stack**
 
----
+`PHP` `MySQL` `HTML` `CSS`
 
-### 👨‍💼 Employee Management System
+</td>
 
-Application for managing employee records and information.
-
-**Tech:** Java • MySQL
-
----
+<td width="50%">
 
 ### 📚 Library Management System
 
-Python-based application for managing books and library records.
+Application for managing books and library records.
 
-**Tech:** Python • SQLite
+**Tech Stack**
 
----
+`Python` `SQLite`
 
-## 🏆 Achievements
-
-🥈 **First Runner-Up — Hackspectra 2.0**
-
-💰 **₹30,000 Prize Winner**
-
-🏆 **Finalist — Hack Better Than Me Hackathon**
-
-👩‍💻 **Women Who Master Hackathon — Participant**
-
-🎖️ **CampusCrew 100K Milestone Honor Certificate**
+</td>
+</tr>
+</table>
 
 ---
 
-## 📜 Certifications
-
-* 🎓 DBMS Certification — EduSkills
-* 🍃 MongoDB CRUD Certification
-* 🤖 AI/ML Certification — Edunet
-* 💻 IBM Skills Certification
-* 🏆 CampusCrew 100K Milestone Honor Certificate
-* 👩‍💻 Women Who Master Hackathon Participation Certificate
-
----
-
-## 📊 GitHub Analytics
+# 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prajakta-bhambar-builds&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajakta-bhambar-builds&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+
+<img src="https://img.shields.io/badge/🥈%20Hackspectra%202.0-First%20Runner--Up-gold?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/💰%20Prize-₹30,000-success?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/🏆%20Hack%20Better%20Than%20Me-Finalist-blue?style=for-the-badge">
+
+</p>
+
+* 🥈 **First Runner-Up — Hackspectra 2.0**
+* 💰 **₹30,000 Prize Winner**
+* 🏆 **Finalist — Hack Better Than Me Hackathon**
+* 👩‍💻 **Women Who Master Hackathon — Participant**
+* 🎖️ **CampusCrew 100K Milestone Honor Certificate**
+
+---
+
+# 📜 Certifications
+
+| Certification          | Area                    |
+| ---------------------- | ----------------------- |
+| 🎓 DBMS                | Database Management     |
+| 🍃 MongoDB CRUD        | MongoDB                 |
+| 🤖 AI/ML               | Artificial Intelligence |
+| 💻 IBM Skills          | Technical Skills        |
+| 🎖️ CampusCrew         | Achievement             |
+| 👩‍💻 Women Who Master | Hackathon               |
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prajakta-bhambar-builds&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180">
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajakta-bhambar-builds&layout=compact&theme=tokyonight&hide_border=true" height="180">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prajakta-bhambar-builds&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prajakta-bhambar-builds&theme=tokyonight&hide_border=true" width="70%">
 </p>
 
 ---
 
-## 💡 Coding Journey
+# 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prajakta-bhambar-builds&theme=tokyo-night&hide_border=true" width="95%">
+</p>
+
+---
+
+# 🧩 Coding Skills
 
 ```text
-DSA                    ████████████████░░  80%
 C / C++                ███████████████░░░  75%
-Java                   ███████████████░░░  80%
+Java                   ████████████████░░  80%
 Python                 ██████████████░░░░  70%
+DSA                    ███████████████░░░  75%
 Web Development        █████████████░░░░░  65%
 Android Development    ████████████░░░░░░  60%
 AI / ML                ████████████░░░░░░  60%
@@ -192,58 +251,56 @@ AI / ML                ████████████░░░░░░  6
 
 ---
 
-## 🌱 Currently Learning
+# 🌱 Currently Learning
 
-* 🧩 Advanced Data Structures & Algorithms
-* 🌐 Full Stack Development
-* 🤖 Artificial Intelligence & Machine Learning
-* 🧠 Agentic AI
-* 📱 Advanced Android Development
-* ☁️ Cloud & Backend Technologies
-* 🔧 Software Engineering Practices
+```text
+🧩 Advanced DSA
+🌐 Full Stack Development
+🤖 Artificial Intelligence & Machine Learning
+🧠 Agentic AI
+📱 Advanced Android Development
+☁️ Cloud & Backend Technologies
+🔧 Software Engineering
+```
 
 ---
 
-## 🎯 2026 Goals
+# 🎯 2026 Goals
 
-* 🚀 Become stronger in **DSA & Problem Solving**
+* 🚀 Master **Data Structures & Algorithms**
 * 💻 Build production-level projects
 * 🤖 Explore **AI & Agentic AI**
-* 🌐 Become a Full Stack Developer
+* 🌐 Become a **Full Stack Developer**
 * 🏆 Participate in more hackathons
 * 💼 Prepare for software engineering placements
 * 🌍 Contribute to Open Source
 
 ---
 
-## 🤝 Connect With Me
+# 🤝 Connect With Me
 
 <p align="center">
 
 <a href="https://github.com/prajakta-bhambar-builds">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 <a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 </p>
 
 ---
 
-## 💭 Developer Quote
-
 <p align="center">
-  <i>"Code. Build. Learn. Repeat."</i>
+
+### 💡 Code • Build • Learn • Repeat
+
+⭐ **Thanks for visiting my profile!**
+
 </p>
 
----
-
 <p align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer">
 </p>
