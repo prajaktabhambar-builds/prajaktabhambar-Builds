@@ -9,12 +9,12 @@
   <h1>Welcome Visitor 👋, I'm Prajakta Bhambar</h1>
 
   <p>
-    <b>Computer Engineering Student | Software Developer | AI/ML Explorer | Hackathon Finalist</b>
+    <b>Computer Engineering Student | Software Developer | AI/ML & DSA Enthusiast | Hackathon Finalist</b>
   </p>
 
   <!-- Animated Typing SVG -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=00F2FE&center=true&vCenter=true&width=650&lines=Agentic+AI+%26+Full+Stack+Developer;Hackathon+Finalist+%7C+%E2%82%B930%2C000+Prize+Winner;Building+Real-World+AI+%26+Software+Solutions;Open+to+Collaborations+%26+Opportunities+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=00F2FE&center=true&vCenter=true&width=750&lines=Computer+Engineering+Student+%7C+Aspiring+SDE;AI+%2F+ML+%26+Agentic+AI+Explorer;Hackathon+Finalist+%7C+%E2%82%B930%2C000+Prize+Winner;Building+Real-World+Solutions+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 
   <br/><br/>
@@ -45,21 +45,21 @@
 <td width="50%" valign="top">
 
 #### 🧘 Professional Journey
-- 🎓 **Computer Engineering Student** passionate about solving real-world challenges.
-- 💻 Actively engineering solutions using **Python, Java, C++, Android & Full-Stack Web**.
-- 🤖 Deepening expertise in **AI/ML, Agentic AI, and Data Structures & Algorithms (DSA)**.
-- 🚀 Actively preparing for **Software Engineering & Product Development** opportunities.
-- ⚡ Passionate about building impactful, scalable, and intelligent applications.
+- 🎓 **Computer Engineering Student** passionate about software craftsmanship.
+- 💻 Deeply interested in **Software Development, DSA, AI/ML, and Full-Stack Development**.
+- 🚀 Dedicated to designing and building **innovative solutions for real-world problems**.
+- 🌱 Actively learning **Advanced DSA, Full-Stack, AI/ML & Agentic AI**.
+- 🎯 Aspiring **Software Developer (SDE)** seeking impactful opportunities.
 
 </td>
 <td width="50%" valign="top">
 
 #### 🌐 Hackathons & Achievements
-- 🥈 **First Runner-Up — Hackspectra 2.0** (Won **₹30,000 Prize**)
+- 🥈 **First Runner-Up — Hackspectra 2.0** (Won **₹30,000 Cash Prize**)
 - 🏆 **Finalist — Hack Better Than Me Hackathon**
 - 👩‍💻 **Participant — Women Who Master Hackathon**
 - 🎖️ **CampusCrew 100K Milestone Honor Certificate**
-- 🤝 Active contributor & participant in developer communities & student tech summits.
+- 🌟 Active competitor & contributor in tech summits and hackathons.
 
 </td>
 </tr>
@@ -71,17 +71,17 @@
 
 <table>
   <tr>
-    <th width="50%" align="center">🎨 Frontend</th>
-    <th width="50%" align="center">⚙️ Backend</th>
+    <th width="50%" align="center">🎨 Frontend & Mobile</th>
+    <th width="50%" align="center">⚙️ Backend & Languages</th>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap,tailwind" alt="Frontend" /><br/>
-      <img src="https://skillicons.dev/icons?i=androidstudio,java" alt="Mobile" />
+      <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,react" alt="Frontend" /><br/>
+      <img src="https://skillicons.dev/icons?i=androidstudio,java" alt="Mobile Development" />
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=python,java,cpp,c,php,nodejs" alt="Backend" /><br/>
-      <img src="https://skillicons.dev/icons?i=fastapi,express" alt="Frameworks" />
+      <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,php" alt="Languages" /><br/>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" alt="Backend Frameworks" />
     </td>
   </tr>
   <tr>
@@ -90,110 +90,199 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" alt="Databases" /><br/>
-      <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" alt="AI/ML" />
+      <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb" alt="Databases" /><br/>
+      <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" alt="AI / ML" />
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,canva" alt="Tools" />
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" alt="Developer Tools" />
     </td>
   </tr>
 </table>
 
 ---
 
-### ✨ Upcoming & Active Projects ✨
+### ✨ Featured Projects ✨
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h4>🩸 <a href="https://github.com/prajaktabhambar-Builds">BloodLink AI</a></h4>
-      <p>AI-driven emergency blood management and intelligent compatible donor discovery system.</p>
+      <p>AI-powered blood donor discovery and emergency blood management system.</p>
+      <b>Tech Stack:</b> <code>Python</code> <code>AI/ML</code> <code>Web</code> <code>Database</code><br/>
+      <b>Key Features:</b>
+      <ul>
+        <li>🔎 Compatible donor discovery</li>
+        <li>📍 Location-based emergency matching</li>
+        <li>🚨 Real-time assistance alerts</li>
+      </ul>
       <img src="https://img.shields.io/badge/STATUS-OPEN--SOURCE-blue?style=flat-square" />
-      <img src="https://img.shields.io/badge/TECH-Python_%7C_AI-green?style=flat-square" />
     </td>
     <td width="50%" valign="top">
       <h4>🚦 <a href="https://github.com/prajaktabhambar-Builds/Marg-Vedha2.0">Marg Vedha 3.0</a></h4>
-      <p>Smart real-time traffic analysis, vehicle tracking, and intelligent traffic management using computer vision.</p>
+      <p>AI-driven smart transportation & traffic management system using computer vision.</p>
+      <b>Tech Stack:</b> <code>Python</code> <code>YOLO</code> <code>BoT-SORT</code> <code>Q-Learning</code><br/>
+      <b>Key Features:</b>
+      <ul>
+        <li>🚗 Automated vehicle detection</li>
+        <li>📊 Real-time traffic density analysis</li>
+        <li>🧠 Intelligent adaptive signal decisions</li>
+      </ul>
       <img src="https://img.shields.io/badge/STATUS-COMPLETED-brightgreen?style=flat-square" />
-      <img src="https://img.shields.io/badge/TECH-YOLO_%7C_Python-orange?style=flat-square" />
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h4>🧠 <a href="https://github.com/prajaktabhambar-Builds">PersonaOS</a></h4>
-      <p>Autonomous Agentic AI platform designed for personalized workflows and intelligent decision-making.</p>
+      <p>Agentic AI-based personalized system for workflow automation and decision-making.</p>
+      <b>Tech Stack:</b> <code>Python</code> <code>Agentic AI</code> <code>LLM</code> <code>APIs</code><br/>
+      <b>Key Features:</b>
+      <ul>
+        <li>🤖 Autonomous multi-agent coordination</li>
+        <li>🧠 User persona modeling & memory</li>
+        <li>⚡ End-to-end task automation</li>
+      </ul>
       <img src="https://img.shields.io/badge/STATUS-IN--PROGRESS-yellow?style=flat-square" />
-      <img src="https://img.shields.io/badge/TECH-Agentic_AI_%7C_Python-blueviolet?style=flat-square" />
     </td>
     <td width="50%" valign="top">
       <h4>📄 <a href="https://github.com/prajaktabhambar-Builds/Smart-Resume-Analyzer">Smart Resume Analyzer</a></h4>
-      <p>Intelligent NLP-based parser that evaluates resumes against job descriptions and scores candidate profiles.</p>
+      <p>Intelligent NLP parser evaluating candidate resumes against job role requirements.</p>
+      <b>Tech Stack:</b> <code>Python</code> <code>NLP</code> <code>Streamlit</code> <code>PyPDF2</code><br/>
+      <b>Key Features:</b>
+      <ul>
+        <li>📄 Candidate skills & experience extraction</li>
+        <li>📊 Match score & keyword gap analysis</li>
+        <li>💡 Smart recommendations for candidates</li>
+      </ul>
       <img src="https://img.shields.io/badge/STATUS-COMPLETED-brightgreen?style=flat-square" />
-      <img src="https://img.shields.io/badge/TECH-Python_%7C_NLP-blue?style=flat-square" />
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h4>🤖 <a href="https://github.com/prajaktabhambar-Builds/AI_Assistent">AI Assistant</a></h4>
-      <p>Conversational assistant built to streamline queries, summarize text, and automate daily tasks.</p>
-      <img src="https://img.shields.io/badge/STATUS-COMPLETED-brightgreen?style=flat-square" />
-      <img src="https://img.shields.io/badge/TECH-Python_%7C_LLM-purple?style=flat-square" />
-    </td>
     <td width="50%" valign="top">
       <h4>📱 <a href="https://github.com/prajaktabhambar-Builds/JAVA-PROJECTS">Student Grade Management</a></h4>
-      <p>Native Android app for recording, evaluating, and managing student academic performance locally.</p>
+      <p>Native Android application for managing, calculating, and storing academic records.</p>
+      <b>Tech Stack:</b> <code>Java</code> <code>Android Studio</code> <code>SQLite</code><br/>
+      <b>Key Features:</b>
+      <ul>
+        <li>👨‍🎓 Student profile & enrollment tracking</li>
+        <li>📊 Automated GPA / grade calculation</li>
+        <li>💾 Offline-first local database storage</li>
+      </ul>
       <img src="https://img.shields.io/badge/STATUS-COMPLETED-brightgreen?style=flat-square" />
-      <img src="https://img.shields.io/badge/TECH-Java_%7C_Android-red?style=flat-square" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>📚 <a href="https://github.com/prajaktabhambar-Builds/Book_recommendation_Using_AI">Book Recommendation AI</a></h4>
-      <p>Smart content-based and collaborative AI recommendation engine for literature enthusiasts.</p>
-      <img src="https://img.shields.io/badge/STATUS-COMPLETED-brightgreen?style=flat-square" />
-      <img src="https://img.shields.io/badge/TECH-Python_%7C_ML-yellowgreen?style=flat-square" />
     </td>
     <td width="50%" valign="top">
       <h4>📢 <a href="https://github.com/prajaktabhambar-Builds/web-design-courses">Digital Notice Board</a></h4>
-      <p>Web-based centralized notice dissemination platform for universities and departments.</p>
+      <p>Centralized digital web platform for disseminating announcements and circulars.</p>
+      <b>Tech Stack:</b> <code>PHP</code> <code>MySQL</code> <code>HTML</code> <code>CSS</code><br/>
+      <b>Key Features:</b>
+      <ul>
+        <li>📌 Category-wise notice publishing</li>
+        <li>🔐 Role-based administration dashboard</li>
+        <li>📱 Responsive UI for student viewing</li>
+      </ul>
       <img src="https://img.shields.io/badge/STATUS-COMPLETED-brightgreen?style=flat-square" />
-      <img src="https://img.shields.io/badge/TECH-PHP_%7C_MySQL-orange?style=flat-square" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>📚 <a href="https://github.com/prajaktabhambar-Builds/Book_recommendation_Using_AI">Library Management System</a></h4>
+      <p>Software application for cataloging books, managing circulation, and tracking returns.</p>
+      <b>Tech Stack:</b> <code>Python</code> <code>SQLite</code> <code>Tkinter</code><br/>
+      <img src="https://img.shields.io/badge/STATUS-COMPLETED-brightgreen?style=flat-square" />
+    </td>
+    <td width="50%" valign="top">
+      <h4>🤖 <a href="https://github.com/prajaktabhambar-Builds/AI_Assistent">AI Assistant</a></h4>
+      <p>Interactive intelligent conversational assistant designed to automate daily developer tasks.</p>
+      <b>Tech Stack:</b> <code>Python</code> <code>LLM</code> <code>Automation</code><br/>
+      <img src="https://img.shields.io/badge/STATUS-COMPLETED-brightgreen?style=flat-square" />
     </td>
   </tr>
 </table>
 
 ---
 
-### 🏆 Honors & Recognition
+### 🏆 Achievements
 
 <div align="center">
-  <img src="https://img.shields.io/badge/🥈%20Hackspectra%202.0-First%20Runner--Up-gold?style=for-the-badge" alt="Hackspectra" />
+  <img src="https://img.shields.io/badge/🥈%20Hackspectra%202.0-First%20Runner--Up-gold?style=for-the-badge" alt="Hackspectra 2.0" />
   &nbsp;
-  <img src="https://img.shields.io/badge/💰%20Cash%20Prize-₹30,000-success?style=for-the-badge" alt="Prize" />
+  <img src="https://img.shields.io/badge/💰%20Prize-₹30,000-success?style=for-the-badge" alt="Prize" />
   &nbsp;
   <img src="https://img.shields.io/badge/🏆%20Hack%20Better%20Than%20Me-Finalist-blue?style=for-the-badge" alt="Finalist" />
 </div>
 
+<br/>
+
+- 🥈 **First Runner-Up** — *Hackspectra 2.0* (Won **₹30,000 Cash Prize**)
+- 🏆 **Finalist** — *Hack Better Than Me Hackathon*
+- 👩‍💻 **Participant** — *Women Who Master Hackathon*
+- 🎖️ **CampusCrew** — *100K Milestone Honor Certificate*
+
 ---
 
-### 📊 GitHub Stats
+### 📜 Certifications
+
+| Certification | Focus Domain |
+| :--- | :--- |
+| 🎓 **DBMS** | Database Management & Architecture |
+| 🍃 **MongoDB CRUD** | Document Databases & Operations |
+| 🤖 **AI/ML** | Artificial Intelligence & Machine Learning |
+| 💻 **IBM Skills** | Enterprise Software Development & Cloud |
+| 🎖️ **CampusCrew** | Community Achievement & Leadership |
+| 👩‍💻 **Women Who Master** | Hackathon Excellence & Collaboration |
+
+---
+
+### 🧩 Coding & Technical Proficiency
+
+```text
+C / C++                ███████████████░░░  75%
+Java                   ████████████████░░  80%
+Python                 ██████████████░░░░  70%
+DSA                    ███████████████░░░  75%
+Web Development        █████████████░░░░░  65%
+Android Development    ████████████░░░░░░  60%
+AI / ML                ████████████░░░░░░  60%
+```
+
+---
+
+### 🌱 Currently Learning
+
+```text
+🧩 Advanced Data Structures & Algorithms (DSA)
+🌐 Scalable Full-Stack Web Development
+🤖 Artificial Intelligence & Machine Learning
+🧠 Agentic AI & Autonomous Multi-Agent Frameworks
+📱 Advanced Android Development Architecture
+☁️ Cloud & Scalable Backend Technologies
+```
+
+---
+
+### 🎯 2026 Goals
+
+- 🚀 **Master Data Structures & Algorithms** for top-tier problem solving
+- 💻 **Ship production-level applications** with modern design & architecture
+- 🤖 **Deep-dive into Agentic AI** and LLM-powered autonomous tooling
+- 🌐 **Excel as a Full-Stack Developer**
+- 🏆 **Compete in and win national hackathons**
+- 💼 **Secure an impactful Software Engineering (SDE) role**
+- 🌍 **Contribute meaningfully to Open Source projects**
+
+---
+
+### 📊 GitHub Stats & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prajaktabhambar-Builds&show_icons=true&theme=tokyonight&hide_border=true&title_color=00F2FE&text_color=94a3b8&icon_color=00F2FE" height="155" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=prajaktabhambar-Builds&theme=tokyonight&hide_border=true&ring=00F2FE&fire=00F2FE&currStreakNum=00F2FE" height="175" alt="GitHub Streak" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prajaktabhambar-Builds&theme=tokyonight&hide_border=true&ring=00F2FE&fire=00F2FE&currStreakNum=00F2FE" height="155" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prajaktabhambar-Builds&theme=tokyonight" height="175" alt="GitHub Profile Details" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajaktabhambar-Builds&layout=compact&theme=tokyonight&hide_border=true&title_color=00F2FE&text_color=94a3b8" height="155" alt="Top Languages" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prajaktabhambar-Builds&theme=tokyo-night&hide_border=true" width="95%" alt="Activity Graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=prajaktabhambar-Builds&theme=tokyonight" height="175" alt="Top Languages" />
 </div>
 
 ---
@@ -202,7 +291,7 @@
 
   ### 💡 Code • Build • Learn • Repeat
 
-  <p>⭐ <i>Thank you for visiting my GitHub profile! Feel free to connect or explore my repositories.</i></p>
+  <p>⭐ <i>Thanks for stopping by! Feel free to explore my repositories or connect with me.</i></p>
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,14,24&height=100&section=footer" width="100%" />
 
